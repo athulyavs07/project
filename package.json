@@ -62,6 +62,6 @@
   },
   "devDependencies": {
     "@types/react-plotly.js": "^2.2.4",
-    "@types/react-router-dom": "^5.1.7"
+    "@types/react-router-dom": "^5.1.8"
   }
 }
