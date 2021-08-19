@@ -1,0 +1,225 @@
+.hdcount
+{
+position:absolute;
+left: 240px;
+top:80px;
+}
+.hd
+{
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+color: #525252;
+text-align: left;
+}
+.headcounter
+{
+text-align: center;
+width: 170px;
+height: 110px;
+background: #FFFFFF;
+mix-blend-mode: normal;
+box-shadow: 0px 4px 2px rgba(0, 0, 0, 0.15);
+border-radius: 25px;
+}
+.text1
+{
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 45px;
+line-height: 60px;
+color: #767676;
+
+}
+ 
+.text2
+{
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 23px;
+
+color: #FF0000;
+
+}
+.radf
+{
+text-align: center;
+width: 170px;
+height: 110px;
+background: #FFFFFF;
+mix-blend-mode: normal;
+box-shadow: 0px 4px 2px rgba(0, 0, 0, 0.15);
+border-radius: 25px;
+}
+.rad1
+{
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 45px;
+line-height: 60px;
+color: #767676;
+}
+.rad2
+{
+ 
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 23px;
+    
+    color: #FF0000;
+    
+}
+.interns
+{
+text-align: center;
+width: 170px;
+height: 110px;
+background: #FFFFFF;
+mix-blend-mode: normal;
+box-shadow: 0px 4px 2px rgba(0, 0, 0, 0.15);
+border-radius: 25px;
+}
+.interns1
+{
+ 
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 45px;
+    line-height: 60px;
+    color: #767676;
+}
+.interns2
+{
+ 
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 23px;
+    
+    color: #FF0000;
+}
+.foul
+{
+text-align: center;
+width: 170px;
+height: 110px;
+background: #FFFFFF;
+mix-blend-mode: normal;
+box-shadow: 0px 4px 2px rgba(0, 0, 0, 0.15);
+border-radius: 25px;
+}
+.foul1
+{
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 45px;
+    line-height: 60px;
+    color: #767676;
+}
+.foul2
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 23px;
+    
+    color: #FF0000;  
+}
+.chart-container
+{
+    position:absolute;  
+    width:400px;
+    height: 200px;
+    left: 250px;
+    top: 285px;  
+}
+
+.doughnut-container
+{
+    position: absolute;
+    width: 235px;
+    height: 150px;
+    top:4px;
+    left: 777px;
+
+}
+.pielabel
+{
+    position: absolute;
+    width: 200px;
+    top: 18px;
+    left: 750px;
+  
+}
+.pielabel1
+{
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+color: #FF0000;
+
+}
+.pielabel2
+{
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+color:#0c0101;;
+
+}
+.pielabel3
+{
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+color:#525252;;
+
+}
+.pielabel4
+{
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+color:#0c0101;;
+}
+.tablecontainer
+{
+position: absolute;
+left: 210px;
+top: 550px;
+height:500px;
+}
+#doug
+{
+    height: 1%;
+    width: 1%;
+}
+#chart
+{
+    height: 1%;
+    width: 1%;
+}
+.MuiTableCell-stickyHeader
+{
+    background-color: #525252 !important ;
+} 

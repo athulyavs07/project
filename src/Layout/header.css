@@ -1,0 +1,36 @@
+.logo {
+    width: 100%;
+    height: 80px;
+    position: fixed;
+    background-color:white;
+    left:0px;
+    top:0px;
+}
+.App-logo
+{
+  position: absolute;
+  width: 200px;
+  height: 70px;
+  left: 0px;
+  top: 0px;
+}
+.settings1 {
+  position: absolute;
+  left: 95.88%;
+  right: 3.93%;
+  top: 40px;
+}
+.settings2 {
+  position: absolute;
+  left: 92.53%;
+  right: 6.78%;
+  top: 40px;
+}
+.settings1:hover
+{
+  cursor: pointer;
+}
+.settings2:hover
+{
+  cursor: pointer;
+}
